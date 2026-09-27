@@ -4,7 +4,7 @@ A hands-on home Security Operations Center (SOC) lab built with Wazuh, Windows A
 
 ## Project Status
 
-?? Lab setup in progress
+Lab setup in progress
 
 ## Objectives
 
