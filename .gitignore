@@ -1,0 +1,35 @@
+# ==============================
+# SOC Home Lab - Git Ignore
+# ==============================
+
+# VMware virtual machines
+*.vmdk
+*.vmem
+*.vmsn
+*.nvram
+*.vmxf
+*.lck
+
+# ISO images
+*.iso
+
+# Local VM and backup folders
+02-VMs/
+10-Backups/
+
+# Large/raw log files
+*.log
+*.evtx
+
+# Secrets and credentials
+.env
+*.key
+*.pem
+*.pfx
+secrets/
+credentials/
+
+# Windows/system files
+Thumbs.db
+Desktop.ini
+.DS_Store
